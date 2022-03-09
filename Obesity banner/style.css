@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+.container-bg{
+    background-color:#f2f2f2 ;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+.border-seperate{
+    border-right: 2px dashed #99acba;
+}
+.num{
+    font-size: 50px !important;
+} 
+.percent{
+    font-size: 40px !important;
+}
